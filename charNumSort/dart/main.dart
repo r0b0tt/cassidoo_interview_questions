@@ -12,7 +12,7 @@ charNumSort(List<String> myList) {
   print(myList);
 }
 
-/// Compare function that uses the number of distinct characters
+/// Compare function that uses the number of distinct characters in a string
 distinctCharacters(String a, String b) {
   List<String> a_characters = [], b_characters = [];
 
