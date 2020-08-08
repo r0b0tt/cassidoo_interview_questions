@@ -1,7 +1,4 @@
-Solutions for cassidy's interview questions from her weekly newsletter.
-
-Website: [https://cassidoo.co/](https://cassidoo.co/)  
-Twitter: [https://twitter.com/cassidoo](https://twitter.com/cassidoo)
+Solutions for [cassidy's](https://cassidoo.co/) interview questions from her weekly newsletter and [dailycodingproblem.com](https://www.dailycodingproblem.com/).
 
 ---
 
